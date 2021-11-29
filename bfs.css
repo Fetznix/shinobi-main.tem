@@ -1,0 +1,44 @@
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+/*message-font*/
+.smf-messsage {
+  font-size: 1.7em; /*font size [don't change em to another.]*/
+  color : #FAFAFA;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+/*button styles*/
+.sm-button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.sm-button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+.sm-button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+.sm-button2 {
+  background-color: #008CBA;
+  color: black;
+  border: 2px solid #008CBA;
+}
+.sm-button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
