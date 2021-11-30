@@ -6,7 +6,7 @@
   text-align: center;
 }
 /*message-font*/
-.smf-messsage {
+.smf-message {
   font-size: 1.7em; /*font size [don't change em to another.]*/
   color : #FAFAFA;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
